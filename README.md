@@ -142,6 +142,14 @@ Developed with ❤️ by IBScv (Ilhas Business Software, Cabo Verde)
 #### Synchronicity Daily Dashboard (Monthly and Yearly)
 <img width="528" height="928" alt="image" src="https://github.com/user-attachments/assets/b5a93fcc-2240-4c73-a6c0-aa00658d93c2" />
 
+## ☕ Support Sacred Tech Flow
+
+If **Sacred Tech Flow** resonates with you and you’d like to support its journey, you can buy me a coffee.  
+Every small contribution helps keep the flow alive, fuels development, and inspires new features.  
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ibscv)
+
+> “Your support is a spark in the flow — thank you for helping this project grow.” 🌊
 
 
 
