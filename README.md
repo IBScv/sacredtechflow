@@ -36,19 +36,15 @@ It explores balance — a seamless flow between data, interface, and motion — 
 ```bash
 git clone git@github.com:IBScv/sacred-tech-flow.git
 cd sacred-tech-flow
-
 ```
+
 ### 2️⃣ Install dependencies
 flutter pub get
 
-
-``
 ### 3️⃣ Run the app
 flutter run
 
-``
-
-🧱 Project Structure
+### 🧱 Project Structure
 
 lib/
  ├── main.dart
@@ -58,7 +54,8 @@ lib/
  ├── widgets/
  └── utils/
 
-💡 Development Notes
+
+### 💡 Development Notes
 
 Hot-restart after adding new providers or model classes.
 
@@ -68,7 +65,7 @@ Modular design: each screen or feature is self-contained.
 
 Follows clean code principles and intuitive navigation flow.
 
-📘 Future Enhancements
+### 📘 Future Enhancements
 
 🔐 Authentication (Google / Apple / Email)
 
@@ -80,14 +77,31 @@ Follows clean code principles and intuitive navigation flow.
 
 🧘 Guided flow & mindfulness mode
 
-📄 License
+### 📄 License
 
 This project is licensed under the MIT License — free to use, modify, and distribute.
 
-🙌 Credits
+### 🙌 Credits
 
-Developed with ❤️ by IBScv
+Developed with ❤️ by IBScv (Ilhas Business Software, Cabo Verde)
 
-“Sacred Flow is not just tech — it’s balance made visible.”
+**“Sacred Flow is not just tech — it’s balance made visible.”**
 
-<!-- 📸 Screenshots (coming soon) Add image references like: ![Home Screen](assets/screenshots/home.png) -->
+### 📸 Screenshots
+#### Lunar Dashboard
+<img width="528" height="928" alt="image" src="https://github.com/user-attachments/assets/12d6a6d0-2258-44c2-95a3-56ac37432563" />
+
+#### New Lunar Entry
+<img width="528" height="928" alt="image" src="https://github.com/user-attachments/assets/284a62ef-e4a2-4514-9fe2-3d20c2a7cdb2" />
+
+#### New Synchronicity Entry
+<img width="528" height="928" alt="image" src="https://github.com/user-attachments/assets/a24108a1-4b4f-4fa8-a6c4-4386c79b079c" />
+
+#### Synchronicity Daily Dashboard (Monthly and Yearly)
+<img width="528" height="928" alt="image" src="https://github.com/user-attachments/assets/b5a93fcc-2240-4c73-a6c0-aa00658d93c2" />
+
+
+
+
+
+
