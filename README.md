@@ -85,7 +85,7 @@ flutter pub get
 
 ### 3️⃣ Run the app
 flutter run
-
+```
 ### 🧱 Project Structure
 
 lib/
@@ -96,7 +96,7 @@ lib/
  ├── widgets/
  └── utils/
 
-
+```
 ### 💡 Development Notes
 
 Hot-restart after adding new providers or model classes.
