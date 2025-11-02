@@ -31,20 +31,25 @@ It explores balance — a seamless flow between data, interface, and motion — 
 
 ## 🚀 Getting Started
 
-### Clone the repository
+### 1️⃣ Clone the repository
 
 ```bash
 git clone git@github.com:IBScv/sacred-tech-flow.git
 cd sacred-tech-flow
 
-### Install the dependencies
-
+```
+### 2️⃣ Install dependencies
 flutter pub get
 
-Run the app
+
+``
+### 3️⃣ Run the app
 flutter run
 
+``
+
 🧱 Project Structure
+
 lib/
  ├── main.dart
  ├── models/
