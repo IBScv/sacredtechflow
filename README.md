@@ -1,4 +1,4 @@
-# 🌊 Sacred Tech Flow
+# 🌊 Sacred Tech Flow - Ilhas Business Software (Cabo Verde)
 
 **Sacred Tech Flow** is a modern Flutter application focused on harmony between technology, design, and user experience.  
 It explores balance — a seamless flow between data, interface, and motion — built with simplicity, clarity, and purpose.
@@ -6,35 +6,77 @@ It explores balance — a seamless flow between data, interface, and motion — 
 ---
 
 ## ✨ Features
-
-- 🌈 Elegant, responsive Flutter UI  
-- 🧭 Reactive state management with Provider  
-- 🔁 Synchronized data and real-time updates  
-- 🕰️ Daily synchronicity tracking and insights  
-- ⚙️ Modular, maintainable architecture  
-- 🌐 Cross-platform support (Android, iOS, Web, Desktop)
+### 🌀 Daily Synchronicity Entries
+— Record signs, moments, and patterns that align with your path.
+### 🌿 Offline Journaling with Hive 
+— All data is securely stored locally using the Hive
+ NoSQL database for fast, offline-first performance.
+### 🌔 Lunar-inspired Interface 
+— A design guided by natural cycles and calm reflection.
+### 🔒 Private and Encrypted 
+— Your thoughts and synchronicities never leave your device.
+### 📖 Expandable Entries 
+— Tap to expand or collapse your daily reflections.
+### 🌞 Multiple Entries per Day 
+— Record as many intuitive moments as you wish.
+### - 🌈 Elegant, responsive Flutter UI  
+### - 🧭 Reactive state management with Provider  
+### - 🔁 Synchronized data and real-time updates  
+### - 🕰️ Daily synchronicity tracking and insights  
+### - ⚙️ Modular, maintainable architecture  
+### - 🌐 Cross-platform support (Android, iOS, Web, Desktop)
 
 ---
 
 ## 🧩 Tech Stack
-
 | Layer | Technology |
 |-------|-------------|
 | Framework | [Flutter](https://flutter.dev) |
-| Language | Dart |
-| State Management | Provider |
-| Persistence | SharedPreferences / Local Storage |
+| Language | Dart (Core logic and data modeling)|
+| State Management | Provider (App-wide state) |
+| Persistence | Hive (Local storage) |
 | Backend (optional) | Firebase / REST API compatible |
 | Version Control | Git + GitHub (SSH workflow) |
 
----
+
+### 💡 Vision
+
+Sacred Tech Flow is part of a broader idea: Sacred Technology — using software not only to increase productivity, but to enhance presence, awareness, and resonance with the natural and spiritual world.
+
+
+## 🧘 Conscious Development
+
+Developing Sacred Tech Flow is itself a spiritual practice.
+Each commit carries intention, rhythm, and clarity.
+
+### Guidelines for aligned development:
+
+#### 🎧 Tune your Frequency —
+Before coding, listen to 432 Hz, 528 Hz, or ambient nature sounds.
+This helps set the intention of harmony and creativity.
+
+#### 🌬️ Breath Before Code —
+Take 3 deep breaths before running the app. This recenters your focus.
+
+#### 🌕 Respect Lunar Flow —
+Major features are best planned around New and Full Moons —
+new beginnings, releases, and reflection cycles.
+
+#### 🔮 Commit Messages as Spells —
+Every message should hold purpose. Example:
+
+git commit -m "Aligned entry expansion with calm flow 🌙"
+
+
+🌱 Keep It Sacred —
+Protect user privacy, avoid over-engineering, and let the system breathe.
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone git@github.com:IBScv/sacred-tech-flow.git
+git clone git@github.com:IBScv/sacredtechflow.git
 cd sacred-tech-flow
 ```
 
