@@ -147,7 +147,7 @@ Developed with ❤️ by IBScv (Ilhas Business Software, Cabo Verde)
 If **Sacred Tech Flow** resonates with you and you’d like to support its journey, you can buy me a coffee.  
 Every small contribution helps keep the flow alive, fuels development, and inspires new features.  
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ibscv)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FFDD00.svg?logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/ncp/payment/GX7QLM583L35E)
 
 > “Your support is a spark in the flow — thank you for helping this project grow.” 🌊
 
